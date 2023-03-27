@@ -2,7 +2,7 @@
 - 👀 🙋‍♂️ I’m interested in 音mad(otomad/YTPMV), Website Setup,Internet Censorship Breakthrough(SSR,V2ray,trojan,Qv2ray,Xray,Clash,QuantumultX etc.).
 - 🌱 🥪 I’m currently learning C++,Java,Python,HTML5,Android.
 - 💞️ 🌍 I’m looking to collaborate on Art, Website Building.
-- 📫 💬 How to reach me: YouTube:https://www.youtube.com/channel/UCegCK_jpmNNDBxNlixEGQDg ニコニコ動画: https://www.nicovideo.jp/user/85167272 Email:scard713@gmail.com.
+- 📫 💬 How to reach me:
 
 <!---
 QKenRu/QKenRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
