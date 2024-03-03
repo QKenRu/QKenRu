@@ -1,6 +1,6 @@
 - 👋 🖐 Hi, I’m @QKenRu. I am able to speak English,中文(Chinese),日本語(Japanese).
 - 🌱 🥪 I’m currently learning C++,Java,Python,HTML5,Android.
-- 📫 💬 How to reach me:
+- 📫 💬 How to reach me: https://reitenny.carrd.co/
 
 <!---
 QKenRu/QKenRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
